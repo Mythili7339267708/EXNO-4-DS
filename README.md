@@ -1,7 +1,11 @@
-# EXNO:4-DS
-# DATE: 04/10/24
-# NAME: V MYTHILI (212223040123)
-# DEPT: CSE
+
+<H3>NAME: V MYTHILI</H3>
+<H3>REG NO: 212223040123</H3>
+<H3>EX NO: 4</H3>
+
+# Feature Scaling and Selection
+
+
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
